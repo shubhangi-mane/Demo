@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/GIT_SPRINT_14/ConsensusOrthopedics-Android/Sources/ConsensusOrtho-HP/app/src/main/java/consensusortho/hp/bleframework/BleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/GIT_SPRINT_14/ConsensusOrthopedics-Android/Sources/ConsensusOrtho-HP/app/src/main/java/consensusortho/hp/view/fragments/SyncFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
